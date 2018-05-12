@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8101
     wikipedia: http://en.wikipedia.org/wiki/William_Wallace_Denslow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25883#Denslow-s-Humpty-Dumpty
 gutenberg_issued: '2008-06-23'
 gutenberg_type: Text
 identifiers:
