@@ -1,0 +1,29 @@
+_repo: Denslow-s-Humpty-Dumpty_25883
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25883-h/images/thumb_backcover.jpg
+creator:
+  author:
+    agent_name: Denslow, W. W. (William Wallace)
+    alias: Denslow, William Wallace
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '8101'
+    url: http://www.gutenberg.org/2009/agents/8101
+    wikipedia: http://en.wikipedia.org/wiki/William_Wallace_Denslow
+description: ''
+gutenberg_issued: '2008-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25883'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picture books for children -- United States'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, American'
+title: Denslow's Humpty Dumpty
+url: http://www.gutenberg.org/ebooks/25883
